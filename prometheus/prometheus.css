@@ -1,0 +1,37 @@
+/*nav bar*/
+
+
+
+nav{
+    display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: stretch; 
+    background-color: white;
+    font-weight: bold;
+    
+    
+}
+nav img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50px;
+}
+
+div.nav-right{
+    flex: 1;
+    display: flex;
+    padding-left:70%;
+    padding-top: 20px;
+}
+h3{
+    margin: 1em;
+    font-size: 1.7em;
+    
+}
+
+a{
+    color: black;
+}
