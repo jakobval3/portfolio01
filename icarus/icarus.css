@@ -1,6 +1,4 @@
-/*nav bar*/
-
-
+/*nav*/
 
 nav{
     display: flex;
@@ -39,29 +37,4 @@ a{
    width: 500px; 
     
     
-}
-
-/*pics*/
-#prometheus, #prometheus2{
-    height: 500px;
-    width: 400px;
-}
-
-.stuff{
-    height: 100%;
-    width: 50%;
-    margin-left: 20%;
-    
-}
-
-footer{
-    height:10em;
-    background-color:antiquewhite;
-    font-weight: bold;
-    display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: center;
-	align-items: center;
-	align-content: center;
 }
